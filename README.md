@@ -1,2 +1,3 @@
-![](politica-sanitaria-argentina.jpeg)
+![](politica-sanitaria-argentina.jpg)
+
 # Politica Sanitaria Argentina
